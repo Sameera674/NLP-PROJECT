@@ -1,7 +1,19 @@
 # NLP-PROJECT
 ANALYZING THERAPY SESSIONS
 
-Contributions of the Team Members to the Project
+Project Overview:
+
+The project, Analyzing Therapy Sessions, focuses on leveraging Natural Language Processing (NLP) techniques to process and analyze therapy session transcripts. The primary goals of the project are:
+
+Summarization: Automatically generate concise summaries of therapy conversations to provide therapists with quick insights into session highlights.
+
+Behavioral Analysis: Use advanced machine learning models, specifically DistilBERT, to predict underlying emotional or psychological challenges based on conversational patterns in the transcripts.
+
+By combining text preprocessing, fine-tuned model training, and summarization techniques, this system aims to enhance the efficiency of mental health practitioners. The solution is designed to be scalable, adaptable to diverse datasets, and capable of providing actionable insights in real-world therapy settings.
+
+This project demonstrates the potential of AI to support mental health services by improving the accessibility and interpretation of therapy session data.
+
+Contributions of the Team Members to the Project:
 
 The project, "Analyzing Therapy Sessions," was a team effort that combined individual contributions to create a robust system capable of summarizing therapy sessions and predicting underlying emotional or psychological issues based on conversation data.
 
