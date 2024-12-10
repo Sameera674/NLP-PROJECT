@@ -13,6 +13,13 @@ This project demonstrates the potential of AI to support mental health services 
 
 ---
 
+## **Repository Structure**
+
+The repository for this project is organized as follows:
+
+![Screenshot 2024-12-10 193234](https://github.com/user-attachments/assets/17741807-5813-4092-82f5-9c379d1ba62c)
+
+
 ## CONTRIBUTIONS OF MEMBERS TO THE TEAM
 
 The project, "**Analyzing Therapy Sessions**," was a team effort that combined individual contributions to create a robust system capable of summarizing therapy sessions and predicting underlying emotional or psychological issues based on conversation data.
@@ -50,9 +57,8 @@ This project demonstrates how advanced **NLP techniques**, combined with **strat
 
 ---
 
-## **Repository Structure**
+## **Acknowledgments**
 
-The repository for this project is organized as follows:
+This project was developed as part of an academic initiative aimed at improving the accessibility and usability of educational content for students across linguistic and cognitive barriers. We would like to express our sincere gratitude to our mentor for their invaluable guidance and support throughout this project.
 
-![Screenshot 2024-12-10 193234](https://github.com/user-attachments/assets/17741807-5813-4092-82f5-9c379d1ba62c)
-
+Additionally, some assistance was sought from ChatGPT for refining and generating parts of the code used in this project. This tool was particularly useful in enhancing the overall efficiency and functionality of our work.
