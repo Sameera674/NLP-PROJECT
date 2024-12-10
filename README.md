@@ -49,7 +49,7 @@ Through the combined efforts of the team, the system successfully achieved its g
 This project demonstrates how advanced **NLP techniques**, combined with **strategic teamwork**, can offer practical solutions for analyzing and understanding therapy conversations.
 
 ---
-## **repositary structure**
+## **Repositary structure**
 
 NLP Therapy Project/
 │
