@@ -49,7 +49,9 @@ Through the combined efforts of the team, the system successfully achieved its g
 This project demonstrates how advanced **NLP techniques**, combined with **strategic teamwork**, can offer practical solutions for analyzing and understanding therapy conversations.
 
 ---
-## **Repositary structure**
 
-NLP Therapy Project/ │ ├── Data Collection/ │ ├── reduced_dataset.csv │ └── train data analysis.docx │ ├── Preprocessing/ │ ├── PREPROCESSING CODE.pdf │ └── Report on Text Preprocessing Code.pdf │ ├── Model Training/ │ ├── DistilBERT Model Training Report.docx │ ├── Distil bret model - Jupyter Notebook.pdf │ └── train data analysis.docx │ ├── Testing and Evaluation/ │ ├── DistilBERT Model Testing Report-1.pdf │ ├── test dataset analysis.docx │ └── TEST nlp.ipynb │ ├── Summarization/ │ ├── summarizer1.py │ ├── Summerizer output.txt │ └── Report on Summarizing Therapy Conversations.pdf │ └── Documentation/ ├── nlp project.pptx └── README.md
+## **Repository Structure**
 
+The repository for this project is organized as follows:
+
+NLP Therapy Project/ │ ├── Data Collection/ │ ├── reduced_dataset.csv │ └── train data analysis.docx │ ├── Preprocessing/ │ ├── PREPROCESSING CODE.pdf │ └── Report on Text Preprocessing Code.pdf │ ├── Model Training/ │ ├── DistilBERT Model Training Report.docx │ ├── DistilBERT Model - Jupyter Notebook.pdf │ └── train data analysis.docx │ ├── Testing and Evaluation/ │ ├── DistilBERT Model Testing Report-1.pdf │ ├── test dataset analysis.docx │ └── TEST nlp.ipynb │ ├── Summarization/ │ ├── summarizer1.py │ ├── Summarizer output.txt │ └── Report on Summarizing Therapy Conversations.pdf │ └── Documentation/ ├── nlp_project.pptx └── README.md
