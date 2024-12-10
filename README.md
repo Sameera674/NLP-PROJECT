@@ -20,8 +20,8 @@ Testing and Evaluation - Sameera
 Sameera focused on testing and evaluating the performance of the system. She rigorously tested the trained DistilBERT model using a different dataset sourced from Hugging Face, ensuring the model's ability to generalize beyond the training data. Her analysis identified key strengths and areas for improvement, resulting in a more reliable and effective system.
 
 Outcome of the Project
-Through the combined efforts of the team, the system successfully achieved its goals of:
 
+Through the combined efforts of the team, the system successfully achieved its goals of:
 Generating accurate and concise summaries of therapy sessions, making it easier for practitioners to review key points.
 Predicting potential psychological or emotional challenges the individual might be facing, providing deeper insights based on conversational patterns.
 This project demonstrates how advanced NLP techniques, combined with strategic teamwork, can offer practical solutions for analyzing and understanding therapy conversations.
