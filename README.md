@@ -47,3 +47,35 @@ Through the combined efforts of the team, the system successfully achieved its g
 - Predicting potential **psychological** or **emotional challenges** the individual might be facing, providing deeper insights based on conversational patterns.
 
 This project demonstrates how advanced **NLP techniques**, combined with **strategic teamwork**, can offer practical solutions for analyzing and understanding therapy conversations.
+
+---
+## **repositary structure**
+
+NLP Therapy Project/
+│
+├── Data Collection/
+│   ├── reduced_dataset.csv
+│   └── train data analysis.docx
+│
+├── Preprocessing/
+│   ├── PREPROCESSING CODE.pdf
+│   └── Report on Text Preprocessing Code.pdf
+│
+├── Model Training/
+│   ├── DistilBERT Model Training Report.docx
+│   ├── Distil bret model - Jupyter Notebook.pdf
+│   └── train data analysis.docx
+│
+├── Testing and Evaluation/
+│   ├── DistilBERT Model Testing Report-1.pdf
+│   ├── test dataset analysis.docx
+│   └── TEST nlp.ipynb
+│
+├── Summarization/
+│   ├── summarizer1.py
+│   ├── Summerizer output.txt
+│   └── Report on Summarizing Therapy Conversations.pdf
+│
+└── Documentation/
+    ├── nlp project.pptx
+    └── README.md
